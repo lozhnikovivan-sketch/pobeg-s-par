@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="ru-RU">
+<head>
+    <title>Доступ запрещен — Новые люди</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    
+    <link rel="stylesheet" href="https://newpeople.ru/build/assets/app-C-YuJZit.css">
+    <link rel="stylesheet" href="https://newpeople.ru/build/assets/app-DAJfTuPL.css">
+</head>
+<body class="bg-neutral-50">
+
+    <div class="px-page flex flex-col items-center justify-center py-32 text-center min-h-screen">
+        
+        <h1 class="text-[120px] font-bold leading-none" style="background: radial-gradient(119.87% 141.67% at 50% 100%, rgb(10, 209, 201) 0%, rgb(5, 107, 103) 100%) text; -webkit-text-fill-color: transparent;">
+            403
+        </h1>
+        
+        <p class="mt-4 text-2xl font-semibold text-[#231F20]">Ваши действия показались нам подозрительными</p>
+        
+        <p class="mt-2 text-[#161616]/60 max-w-xl">
+            Техническая информация:<br>
+            <span class="font-mono text-sm break-all">
+                ID: 4da2730e-36ea-44ee-964d-19fbc403cba0<br>
+                URI: &#47;templates&#47;img&#47;logo_black.svg<br>
+                IP: 34.48.254.190
+            </span>
+        </p>
+
+        <a href="/" class="mt-8 inline-block rounded-[2px] px-[30px] py-[14px] text-[14px] font-bold uppercase text-white hover:opacity-90 transition-all" style="background: radial-gradient(119.87% 141.67% at 50% 100%, rgb(10, 209, 201) 0%, rgb(5, 107, 103) 100%); text-decoration: none;">
+            Перейти на главную
+        </a>
+    </div>
+
+</body>
+</html>

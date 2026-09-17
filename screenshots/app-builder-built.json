@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Офисный спринт",
+      "hasCanvas": true,
+      "bodyTextLen": 194,
+      "bodyTextHash": "d923a8386a5e85c7c5ef8c232fe40807063319779efff708018205d0261aeec9",
+      "bodyTextPrefix": "ПАРТИЯ НОВЫЕ ЛЮДИ ОФИСНЫЙ СПРИНТ 00000 ПОМОГИ АЙТИШНИКУ ПЕРЕПРЫГ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Офисный спринт",
+      "hasCanvas": true,
+      "bodyTextLen": 171,
+      "bodyTextHash": "8aa2b091fb510951882ad63779fb1eb1bfe78748ad5abb303d73772a2117b44b",
+      "bodyTextPrefix": "ПАРТИЯ НОВЫЕ ЛЮДИ ОФИСНЫЙ СПРИНТ 00000 ПОМОГИ АЙТИШНИКУ ПЕРЕПРЫГ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
